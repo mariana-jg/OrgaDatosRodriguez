@@ -1,5 +1,4 @@
-# OrgaDatosRodriguez
-## Organización de Datos (actual Ciencia de Datos) - Cátedra Rodriguez
+# Organización de Datos (actual Ciencia de Datos) - Cátedra Rodriguez
 
 ### Cuatrimestre de Cursada
 2° Cuatrimestre 2023
